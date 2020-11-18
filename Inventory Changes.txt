@@ -1,0 +1,15 @@
+Changes From IT team:
+
+1 : Ram Abd HardDisk serial number
+
+2 : Validations should be combination
+
+3 : When we select harddisk , ram we have to display pheiperals based on asste type
+
+4 : Have to show serial numbers in assign asset to employee 
+          (NOTE: have to display all asset information)
+		  
+5.   Naming conventions to change in dealocate asset
+
+
+6.  when we allocate laptop or desktop to employee PDF form is better
